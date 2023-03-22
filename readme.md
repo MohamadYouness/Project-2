@@ -4,7 +4,7 @@ This project contains a Python script that performs basic reconnaissance on a ta
 ## Usage
 To run the script, use the following command:
 
-## python main.py <url>
+python main.py <url>
 Replace <url> with the target website URL.
 
 ## Dependencies
